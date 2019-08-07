@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## What is Ontology
 
 You can use the [editor on GitHub](https://github.com/zhichenghao/Ontology/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
