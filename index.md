@@ -17,7 +17,11 @@ Relationships include N-ary [predicates](https://www.quora.com/What-is-an-ontolo
 The unary predicates can be man(Adam) are typically modelled as Concepts: 
 Man
 Adam ∈ Man; Adam ∈ Male; Adam ∈ Human.
-But the analysisi will often reduce relationship to be binary hasMonther(Adam, Ann). The Exception can be between(door, table, window). The functions are + - / & times;.
+But the analysisi will often reduce relationship to be binary hasMonther(Adam, Ann). The Exception can be between(door, table, window). The functions are + - / & times;. The syntax of ontology: the atomic formula in first order logic will be written _predicate(argument1, argument 2)_. x ∈ C will denote set membership. Let p and q be predicates, well-formed formulas include
+- &forall;x p(x)
+- &forall;x p(x)&rArr;q(x)<br>
+The quantifier&forall; may be dropped for legibility and x,y,z denote variables. 
+
 
 ![avatar](denotation.png)
 ```markdown
