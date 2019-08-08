@@ -29,8 +29,12 @@ The **relations** in ontological modelllinsg incldue:
 - Domain domain(P,C): P(x,y)⟹type(x,C) E.g. domain(hasMother, Human), adding domain (P,D) means all x lie in C ∩ D.
 - Range range (P,C): P(x,y)⟹type(y,C)E.g. range(hasMother,Woman)
 
-![image](ontologicalModellingRelations.png)
+![avatar](ontologicalModellingRelations.png)
+The **attribute relations** is a type of relation distinguished by its range.
+- attributes and values: Attributes are binary relations and they maybe ordered or part ordered. The range is a specified set of instances and it is transitive. e.g. small&lt;medium, medium&lt;large⟹small⟹;large.
+- attributes and Classes: attributes can be drawn from a set of discrete attribute value or from a continuous range (real number) e.g. Nominal and Ordinal. The attribute relations include binary, functional, and hierarchically organised.
 
+There are different **types of Ontology**: Knowledge Representation, Upper-level, Generic and Application (Domain) Ontologies
 
 
 
