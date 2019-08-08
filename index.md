@@ -17,13 +17,14 @@ Relationships include N-ary [predicates](https://www.quora.com/What-is-an-ontolo
 The unary predicates can be man(Adam) are typically modelled as Concepts: 
 Man
 Adam ∈ Man; Adam ∈ Male; Adam ∈ Human.
-But the analysisi will often reduce relationship to be binary hasMonther(Adam, Ann). The Exception can be between(door, table, window)
+But the analysisi will often reduce relationship to be binary hasMonther(Adam, Ann). The Exception can be between(door, table, window). The functions are + - / & times;.
 
 ![avatar](denotation.png)
 ```markdown
 Question:
 - ontology how to coomunication between computers (what is ontology)?
 - What is the exception of the Ontology (relationships in ontological modelling)?
+- what is the function of ontology (relationships in ontological modelling)
 
 # Header 1
 ## Header 2
