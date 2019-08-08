@@ -4,6 +4,9 @@ As a branch of philosophy, ontology is the science of what is, the kinds and str
 
 Ontology is useful because it can be used to communicated between _people_. Technical terms are often used with different meaning by different groups in an organization, e.g."Supplier". Ontology can be used to communicated between _computers_. e.g. &lt;cost&gt;£10&lt;/cost&gt; v.s. &lt;price&gt;£10&lt;price&gt;. Ontology can be used to communicated between _people and computers_, e.g. how to read friend (Ann, Bob). The main **benefit** of ontology is improving interoperatbility. Ontology can be drectly transferred from one software application to another without needing prior knowledge of eiter application. The whol progress is aotumatic and maintained the meaninig of all the data values transferred.
 
+This is one of the example: a medical ontology. This ontology include Hierarchical organisation of _classes_ and different levels of _granularity_. The attributes (physical and material) distinguish the major branches of the exonomy. 
+![avatar](/Users/bob/Dropbox/Visa/image/medicalOntology.png )
+
 ## How to create a ontology for process mining?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
