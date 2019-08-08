@@ -12,10 +12,10 @@ This is one of the **example**: a medical ontology. This ontology include Hierar
 Ontological modelling include **concepts, instances, relationships and Functions.** Concepts include class, category and type. The concrete entities(individual) can be instantiated a concept. Assertions about individuals would be considered part of knowledge base, not part of ontology. E.g. 
 - Ontology Base: &forall;x x &in; Female &Rightarrow; x &notin; Male
 - Knowledge Base: Ann &in; Woman &wedge; married (Ann, Joe)
-Relationships include N-ary [predicates](https://www.quora.com/What-is-an-ontological-predicate)(unary, binary, tenary, ...)。
+Relationships include N-ary [predicates](https://www.quora.com/What-is-an-ontological-predicate)(unary, binary, tenary, ...).
 The unary predicates can be man(Adam) are typically modelled as Concepts: 
 Man
-Adam \in Man; Adam \in Male; Adam \in Human.
+Adam &in; Man; Adam &in; Male; Adam &in; Human.
 But the analysisi will often reduce relationship to be binary hasMonther(Adam, Ann). The Exception can be between(door, table, window)
 
 ![avatar](denotation.png)
