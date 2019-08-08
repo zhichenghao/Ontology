@@ -2,14 +2,16 @@
 
 As a branch of philosophy, ontology is the science of what is, the kinds and structures of objects, properties, events, processes and relations in every area in reality. Ontology include set of **concepts** and **relations**. It is knowledge about general propositions that are true of concepts. It means that ontology not concerned with indiviudal things (such as hotels, room) rather than focusing on the definitions of concepts. It is usually resulting in computer implementation. Ontology can be defined informally or using ideas from set theory and logic.
 
-Ontology is useful because it can be used to communicated between **people**. Technical terms are often used with different meaning by different groups in an organization, e.g."Supplier". Ontology can be used to communicated between **computers**. e.g. &lt;cost&gt;£10&lt;/cost&gt; v.s. &lt;price&gt;£10&lt;price&gt;. 
+Ontology is useful because it can be used to communicated between **people**. Technical terms are often used with different meaning by different groups in an organization, e.g."Supplier". Ontology can be used to communicated between **computers**. e.g. &lt;cost&gt;£10&lt;/cost&gt; v.s. &lt;price&gt;£10&lt;price&gt;. Ontology can be used to communicated between **people and computers**, e.g. how to read friend (Ann, Bob).
 
 ## How to create a ontology for process mining?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Question:
+- ontology how to coomunication between computers
+- 
 
 # Header 1
 ## Header 2
