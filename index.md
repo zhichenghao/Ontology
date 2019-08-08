@@ -9,8 +9,11 @@ This is one of the **example**: a medical ontology. This ontology include Hierar
 
 ## Ontological Modelling
 
-Ontological modelling include **concepts, instances, relationships and Functions.** Concepts include class, category and type. The concrete entities(individual) can be instantiated a concept.
+Ontological modelling include **concepts, instances, relationships and Functions.** Concepts include class, category and type. The concrete entities(individual) can be instantiated a concept. Assertions about individuals would be considered part of knowledge base, not part of ontology. E.g. 
+- Ontology Base: \forall x x \in Female \Rightarrow x \notin Male
+- Knowledge Base: Ann \in Woman \wedge married (Ann, Joe)
 
+![avatar](denotation.png)
 ```markdown
 Question:
 - ontology how to coomunication between computers ?
