@@ -29,7 +29,9 @@ The **relations** in ontological modelllinsg incldue:
 - Domain domain(P,C): P(x,y)⟹type(x,C) E.g. domain(hasMother, Human), adding domain (P,D) means all x lie in C ∩ D.
 - Range range (P,C): P(x,y)⟹type(y,C)E.g. range(hasMother,Woman)
 
-![image](ontologicalModellingRelations)
+![image](ontologicalModellingRelations.png)
+
+
 
 
 
