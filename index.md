@@ -31,8 +31,8 @@ The **relations** in ontological modelllinsg incldue:
 
 ![image](OntologicalModellingRelations.png)
 The **attribute relations** is a type of relation distinguished by its range.
-- attributes and values: Attributes are binary relations and they maybe ordered or part ordered. The range is a specified set of instances and it is transitive. e.g. small&lt;medium, medium&lt;large⟹small&lt;large.
-- attributes and Classes: attributes can be drawn from a set of discrete attribute value or from a continuous range (real number) e.g. Nominal and Ordinal. The attribute relations include binary, functional, and hierarchically organised.
+- Attributes and values: Attributes are binary relations and they maybe ordered or part ordered. The range is a specified set of instances and it is transitive. e.g. small&lt;medium, medium&lt;large⟹small&lt;large.
+- Attributes and Classes: attributes can be drawn from a set of discrete attribute value or from a continuous range (real number) e.g. Nominal and Ordinal. The attribute relations include binary, functional, and hierarchically organised.
 
 There are different **types of Ontology**: Knowledge Representation, Upper-level, Generic and Application (Domain) Ontologies
 
@@ -47,17 +47,11 @@ Question:
 - What is the exception of the Ontology (relationships in ontological modelling)?
 - what is the function of ontology (relationships in ontological modelling)
 - raltion of onotological model: higher-arity, Cardinality
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Next:
+- find the example of four types of ontology
+- how to create the one ontology by using any tools?
+- how to do annotation on ontology?
+- how to apply ontology in different technologies such as process mining?
 ```
+
+
