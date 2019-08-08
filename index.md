@@ -21,11 +21,12 @@ But the analysisi will often reduce relationship to be binary hasMonther(Adam, A
 
 The **syntax** of ontology: the atomic formula in first order logic will be written _predicate(argument1, argument 2)_. x ∈ C will denote set membership. Let p and q be predicates, well-formed formulas include: &forall;x p(x), &forall;x p(x)&rArr;q(x). The quantifier&forall; may be dropped for legibility and x,y,z denote variables.
 
-The basis of an ontology is the catgorisation of enetities into **classes**. subClassOf relates the subclass to the super class: subClassOf(SUBCLASS, SUPERCLASS). This is also known as is-a.
-
-
-
 ![avatar](denotation.png)
+
+The basis of an ontology is the catgorisation of enetities into **classes**. subClassOf relates the subclass to the super class: subClassOf(SUBCLASS, SUPERCLASS). This is also known as is-a. subClassof is defined in terms of instance-of (type in RDF): type(a,C)≈a∈C, subClassOf(S, T) ⟺ (&forall;xtype(x,S)&rArr; type(x,T)）. The S and T are names of concepts which can be unary predicates: &forall;x S(x)&rArr;T(x). This is also equal to subClassOf(S,T). 
+
+
+
 ```markdown
 Question:
 - ontology how to coomunication between computers (what is ontology)?
