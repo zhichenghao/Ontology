@@ -23,7 +23,15 @@ The **syntax** of ontology: the atomic formula in first order logic will be writ
 
 ![avatar](denotation.png)
 
-The basis of an ontology is the catgorisation of enetities into **classes**. subClassOf relates the subclass to the super class: subClassOf(SUBCLASS, SUPERCLASS). This is also known as is-a. subClassof is defined in terms of instance-of (type in RDF): type(a,C)≈a∈C, subClassOf(S, T) ⟺ (&forall;xtype(x,S)&rArr; type(x,T)）. The S and T are names of concepts which can be unary predicates: &forall;x S(x)&rArr;T(x). This is also equal to subClassOf(S,T). 
+The basis of an ontology is the catgorisation of enetities into **classes**. subClassOf relates the subclass to the super class: subClassOf(SUBCLASS, SUPERCLASS). This is also known as is-a. subClassof is defined in terms of instance-of (type in RDF): type(a,C)≈a∈C, subClassOf(S, T) ⟺ (&forall;xtype(x,S)&rArr; type(x,T)）. The S and T are names of concepts which can be unary predicates: &forall;x S(x)&rArr;T(x). This also equal to subClassOf(S,T).
+
+The **relations** in ontological modelllinsg incldue:
+- Domain domain(P,C): P(x,y)⟹type(x,C) E.g. domain(hasMother, Human), adding domain (P,D) means all x lie in C ∩ D.
+- Range range (P,C): P(x,y)⟹type(y,C)E.g. range(hasMother,Woman)
+
+![image](ontologicalModellingRelations)
+
+
 
 
 
@@ -32,7 +40,7 @@ Question:
 - ontology how to coomunication between computers (what is ontology)?
 - What is the exception of the Ontology (relationships in ontological modelling)?
 - what is the function of ontology (relationships in ontological modelling)
-
+- raltion of onotological model: higher-arity, Cardinality
 # Header 1
 ## Header 2
 ### Header 3
@@ -47,13 +55,3 @@ Question:
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhichenghao/Ontology/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
