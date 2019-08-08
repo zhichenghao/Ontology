@@ -1,8 +1,6 @@
 ## What is Ontology
 
-You can use the [editor on GitHub](https://github.com/zhichenghao/Ontology/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a branch of philosophy, ontology is the science of what is, the kinds and structures of objects, properties, events, processes and relations in every area in reality. Ontology include set of concepts and relations. It is knowledge about general propositions that are true of concepts. It means that ontology not concerned with indiviudal things (such as hotels, room) rather than focusing on the definitions of concepts. It is usually resulting in computer implementation. Ontology can be defined informally or using ideas from set theory and logic.
 
 ### How to create a ontology for process mining?
 
