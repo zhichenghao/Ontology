@@ -37,10 +37,6 @@ The **attribute relations** is a type of relation distinguished by its range.
 There are different **types of Ontology**: Knowledge Representation, Upper-level, Generic and Application (Domain) Ontologies
 
 
-
-
-
-
 ```markdown
 Question:
 - ontology how to communication between computers (what is ontology)?
@@ -48,7 +44,6 @@ Question:
 - what is the function of ontology (relationships in ontological modelling)
 - raltion of onotological model: higher-arity, Cardinality
 Next:
-- find the example of four types of ontology
 - how to create the one ontology by using any tools?
 - how to do annotation on ontology?
 - how to apply ontology in different technologies such as process mining?
