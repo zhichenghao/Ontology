@@ -11,7 +11,7 @@ This is one of the **example**: a medical ontology. This ontology include Hierar
 
 Ontological modelling include **concepts, instances, relationships and Functions.** Concepts include class, category and type. The concrete entities(individual) can be instantiated a concept. Assertions about individuals would be considered part of knowledge base, not part of ontology. E.g. 
 - Ontology Base: &forall;x x ∈ Female &rArr; x &notin; Male
-- Knowledge Base: Ann &in; Woman ∧ married (Ann, Joe)<br>
+- Knowledge Base: Ann ∈ Woman ∧ married (Ann, Joe)<br>
 
 Relationships include N-ary [predicates](https://www.quora.com/What-is-an-ontological-predicate)(unary, binary, tenary, ...).
 The unary predicates can be man(Adam) are typically modelled as Concepts: 
@@ -43,7 +43,7 @@ There are different **types of Ontology**: Knowledge Representation, Upper-level
 
 ```markdown
 Question:
-- ontology how to coomunication between computers (what is ontology)?
+- ontology how to communication between computers (what is ontology)?
 - What is the exception of the Ontology (relationships in ontological modelling)?
 - what is the function of ontology (relationships in ontological modelling)
 - raltion of onotological model: higher-arity, Cardinality
